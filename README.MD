@@ -10,4 +10,4 @@ Objective of this challenge is:
 
 **BUT all quickly**
 
-![Image result of the script](https://github.com/Boomwerk/HTB-Challenge/img/python1.png)
+![Image result of the script](https://github.com/Boomwerk/HTB-Challenge/blob/master/img/python1.png)
